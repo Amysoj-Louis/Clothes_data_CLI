@@ -2,9 +2,9 @@
 
 Hi, I have created an CLI that retrives data from Json file based on query
 ## Steps to use:
-*Clone the repo.
-*Go to the downloaded folder and open the cmmand prompt.
-*Type `clothes --help` to see all commands
+* Clone the repo.
+* Go to the downloaded folder and open the cmmand prompt.
+* Type `clothes --help` to see all commands
 
 
 ### Example 1
