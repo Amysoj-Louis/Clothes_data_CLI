@@ -1,0 +1,7 @@
+setup.py
+ecloth.egg-info/PKG-INFO
+ecloth.egg-info/SOURCES.txt
+ecloth.egg-info/dependency_links.txt
+ecloth.egg-info/entry_points.txt
+ecloth.egg-info/requires.txt
+ecloth.egg-info/top_level.txt
