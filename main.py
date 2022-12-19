@@ -68,7 +68,7 @@ def init(count, search, file):
 
 
 @ecloth.command()
-@click.option("--id", "-s", type=int, prompt="Hello, please enter your Query", help="The Query to search.")
+@click.option("--id", "-s", type=int, prompt="Hello, please enter your Query Id", help="The Query Id to search.")
 def idbased(id):
     """Get data from json using id"""
     gotid = False
